@@ -1,0 +1,3 @@
+# CorelDraw Desktop
+
+Utility scaffolding.
